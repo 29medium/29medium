@@ -1,10 +1,13 @@
 ### Hi there, I'm Paulo
 
+I'm a Software Engeneering Stundent at University of Minho who is currently on the second grade
+
 ### Connect with me:
 
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -22,9 +25,11 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][instagram]
 
 <br />
+<br />
 
 <img align="left" alt="Paulo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=29medium&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/29medium
 [instagram]: https://instagram.com/29medium
 [linkedin]: https://linkedin.com/in/paulo.sousa29
+[facebook]: https://www.facebook.com/29medium/
