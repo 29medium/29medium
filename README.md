@@ -30,7 +30,7 @@ I'm a Software Engeneering Stundent at University of Minho who is currently on t
 <br />
 <br />
 
-<img align="left" alt="Paulo's Github Stats" src="https://github-readme-stats.vercel.app/api?theme=dark?username=29medium&show_icons=true&hide_border=true" />
+<img align="left" alt="Paulo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=29medium&show_icons=true&hide_border=true&theme=dracula" />
 
 [twitter]: https://twitter.com/29medium
 [instagram]: https://instagram.com/29medium
