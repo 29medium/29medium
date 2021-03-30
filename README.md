@@ -1,6 +1,6 @@
 ### Hi there, I'm Paulo
 
-I'm a Software Engineering Stundent at University of Minho who is currently on the third grade
+I'm a Software Engineering Student at University of Minho who is currently on the third grade
 
 ### Connect with me:
 
